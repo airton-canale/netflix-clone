@@ -32,7 +32,7 @@ This app shows a project that I tried to make the layout similar to Netflix and 
 <br>
 
 ## 🚀 Deploy
- -  https://interface-tailwind.canale.dev
+ -  https://netflix.canale.dev
 
  - This application was deployed with Github Pages library
 
